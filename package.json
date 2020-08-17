@@ -1,0 +1,22 @@
+{
+  "name": "reto-platzivideo",
+  "version": "1.0.0",
+  "description": "aprendiendo postcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhonander95/reto-platzivideo.git"
+  },
+  "author": "Jhonanderson Téllez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhonander95/reto-platzivideo/issues"
+  },
+  "homepage": "https://github.com/Jhonander95/reto-platzivideo#readme",
+  "dependencies": {
+    "postcss-cli": "^7.1.1"
+  }
+}
