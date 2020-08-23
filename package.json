@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/Jhonander95/reto-platzivideo#readme",
   "dependencies": {
-    "postcss-cli": "^7.1.1"
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^7.1.1",
+    "postcss-cssnext": "^3.1.0"
+  },
+  "devDependencies": {
+    "postcss-custom-selectors": "^5.1.2",
+    "postcss-preset-env": "^6.7.0"
   }
 }
