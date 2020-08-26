@@ -13,6 +13,8 @@ module.exports = {
 		require('postcss-custom-media')({
 			preserve: false,
 		}),
-		require('postcss-custom-selectors')
+		require('postcss-custom-selectors'),
+		require('css-mqpacker'),
+		require('cssnano')
 	]
 }
