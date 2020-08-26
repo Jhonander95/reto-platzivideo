@@ -7,7 +7,9 @@ module.exports = {
 			},
 			preserve: false,
 		}),
+		require('postcss-import'),
 		require('postcss-apply'),
+		require('stylelint'),
 		require('postcss-custom-media')({
 			preserve: false,
 		}),
